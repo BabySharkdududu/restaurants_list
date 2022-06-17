@@ -16,10 +16,10 @@ git clone https://github.com/BabySharkdududu/restaurants_list.git
 3.開啟終端機(Terminal)，輸入 cd restaurants_list
 進入存放此專案的資料夾
 
-5.啟動伺服器
+4.啟動伺服器
 在 Terminal 輸入 npm run dev
 當 Terminal 出現 "Express is listening on http://localhost:3000" 字樣，表示伺服器與資料庫已啟動並成功連結
 
 現在，你可開啟任一瀏覽器瀏覽器輸入 http://localhost:3000 便可以看到網站
 
-6.在 Terminal 使用 Ctrl+C 指令結束伺服器
+5.在 Terminal 使用 Ctrl+C 指令結束伺服器
